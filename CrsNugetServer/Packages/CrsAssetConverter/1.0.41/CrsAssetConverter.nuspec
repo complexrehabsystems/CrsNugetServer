@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>CrsAssetConverter</id>
+    <version>1.0.41</version>
+    <title>Crs asset conversion library</title>
+    <authors>Complex Rehab Systems</authors>
+    <owners>Comlex Rehab Systems</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Library for converting assets from one format to another</description>
+    <summary>Library for converting assets from one format to another</summary>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <references>
+      <reference file="CrsAssetConverter.winmd" />
+    </references>
+  </metadata>
+</package>

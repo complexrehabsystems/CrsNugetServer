@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SQLCipher.Net.WindowsUAP-PCL</id>
+    <version>3.4.1</version>
+    <title>SQLCipher.Net Windows UAP PCL</title>
+    <authors>Zetetic LLC</authors>
+    <owners>Zetetic LLC</owners>
+    <licenseUrl>https://www.zetetic.net/sqlcipher/LICENSE.pdf</licenseUrl>
+    <projectUrl>https://www.zetetic.net/sqlcipher</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SQLCipher.NET PCL is an open source, minimal library to allow .NET applications to store data in SQLCipher databases.
+    This package is compatible with the following .net platforms: Windows Runtime, Windows Phone 8.1, Windows Phone 10</description>
+    <summary>A .NET client library to access SQLCipher embedded database files in a LINQ manner.</summary>
+    <tags>sqlcipher sqlite pcl sql database windows metro winrt windowsphone wp</tags>
+    <dependencies>
+      <dependency id="SQLite.Net.Core-PCL" version="3.1.1" />
+    </dependencies>
+  </metadata>
+</package>
